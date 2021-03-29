@@ -41,3 +41,13 @@ nav, footer{
 	margin-right:auto;
 	width: 50%;
 }
+
+.style{
+	list-style: none;
+}
+
+.star::before {
+    content: "\2605";
+    color: black;
+	padding-right: 10px;
+}
