@@ -14,7 +14,7 @@ h1{
 	margin: 50px 50px 50px 50px;
 }
 
-h2, h3, h4{
+h2, h3{
 	color: red;
 }
 
@@ -28,8 +28,11 @@ a:active, a:hover{
 	text-decoration: underline;
 }
 
-nav{
+nav, footer{
 	text-align: center;
+	background-color: white;
+	margin-left: 80px;
+	margin-right: 80px;
 }
 
 .center{
